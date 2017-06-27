@@ -12,13 +12,13 @@ span.bg-success {
   padding: 5px 15px;
 }
 a {
-  color: #2c3e50;
+  color: #337ab7;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 85%;
 }
-a:hover {
-  color: #337ab7;
+a:hover, a:visited {
+  color: #2c3e50;
   text-decoration: none;
 }
 .medskip {
