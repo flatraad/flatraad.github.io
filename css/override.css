@@ -1,6 +1,7 @@
 header {
   background-image: url("../img/front_blurred.png");
   background-size: cover;
+  background-position-x: center;
   height: 900px;
 }
 .name {
